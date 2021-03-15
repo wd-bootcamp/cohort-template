@@ -1,0 +1,79 @@
+# Bootcamp Manual
+
+## Anwesenheit
+
+- Vor Ort: Jeden Morgen wird eine Anwesenheitsliste unterschrieben.
+
+- Remote: Jeden Morgen wird ein Screenshot vom Zoommeeting gemacht für das Protokoll.
+
+Bitte achtet...
+
+- auf den Dateinamen `2021-01-11.png` und legt die Bilder im Ordner `/images` ab
+- darauf, dass die Vor- und Nachnamen sichtbar sind
+- darauf, dass das Datum sichtbar ist (am Besten den Screenshot als Fullscreen machen `cmd + shift + 3`)
+
+![example image](images/EXAMPLE.png)
+![2021/01/11](images/2021-01-11.png)
+
+## Lehrstrategie
+
+- **Täglich neue Inhalte**: Sei aufmerksam und mach dir viele Notizen
+- **Freitags Wochenaufgabe**: Wiederhole den Inhalt der Woche in einer Gruppe oder alleine
+- **Selbständigkeit**: Du wirst viel selbständig arbeiten und lernen
+- **Stress**: Stress und schlaflose Nächte sind normal :)
+- **Frust**: Misserfolge, Frust und schlechte Laune leider auch, die du aber bitte nicht in der Gruppe auslassen wirst
+- **Verhalten**: Sei professionell, ordentlich, pünktlich und gib Bescheid, wenn etwas fehlt
+- **Fragen**: Frage bei Problemen die Coaches, Sarah oder Sina via Slack
+
+## Tipps den Kurs durchzustehen
+
+- Akzeptiere, dass du nicht alles direkt verstehst
+- Sei nicht zu stolz oder schüchtern und stelle viele Fragen
+- Erstelle dir deine eigenen Notizen
+- Trinke viel Wasser und/oder Tee
+- Genieße Kaffee in Maßen und verzichte auf zuckerhaltige Getränke
+- Vermeide das "Schnitzeltief" und esse etwas leichtes in der Mittagspause
+- Lege mindestens eine Stunde vor dem Schlafengehen dein Handy und Laptop weg
+- Feiern ist wichtig, trinke aber nicht zu viel Alkohol
+
+## Wochenschwerpunkte
+
+1. **Woche**: Shell, Git, Markdown, HTML, CSS Basics
+1. **Woche**: CSS Advanced
+1. **Woche**: JavaScript Basics
+1. **Woche**: JavaScript Advanced
+1. **Woche**: React Basics
+1. **Woche**: React Advanced
+1. **Woche**: Backend, Node.js, MongoDB
+1. **Woche**: Product Development, Vorbereitung Digitales Gesellenstück
+1. **Woche | Digitales Gesellenstück**: Sprint 1
+1. **Woche | Digitales Gesellenstück**: Sprint 2
+1. **Woche | Digitales Gesellenstück**: Sprint 3
+1. **Woche | Digitales Gesellenstück**: Sprint 4
+
+## Tagesablauf
+
+- 9:30 Uhr: Protokoll besprechen
+- 10:00 Uhr: Theorie und Praxis
+- 13:00 Uhr: Lunch für 60 Minuten
+- 14:00 Uhr - 15:00: Theorie und Praxis
+- ab ca. 15:00 Uhr: flexible Übungen
+- 17:00 Uhr: Checkout
+
+## Slack
+
+Slack ist unser alltägliches schriftliches Kommunikationstool. Kann als App oder im Web geöffnet werden, App bevorzugt. Wir sind nicht alleine auf dem Server, es gibt noch die anderen Köllner, Münchener und Hamburger Kurse und viele Alumni. Jeder Kurs hat seinen eigenen privaten Channel.
+
+- **Profil**: Profilbilder machen das ganze etwas Persönlicher :)
+- **Ausfallzeiten**: über Slack kommunizieren, wenn planbar möglichst frühzeitig mit Sarah, Sina und Coaches besprechen, kurze Verspätungen im privaten Channel
+
+### Eine kleine Regel:
+
+Auf Nachrichten immer im **Thread** Antworten, damit nur Interessierte benachrichtigt werden und Nachrichten organisiert sind
+
+## Zoom
+
+Unser digitaler Klassenraum ist im [Zoom](https://zoom.neuefische.de).
+
+- Mit `Reactions` kann non-verbal reagiert werden, z.B. zustimmen, abstimmen, nach einer Pause Fragen, "Bitte langsamer" etc.
+- Für Übungen gibt es Breakout Rooms und alle werden zufällig verteilt.
