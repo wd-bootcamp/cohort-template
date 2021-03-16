@@ -1,9 +1,9 @@
-# Protokoll _Kurs name (z.B. HH-WEB-21-1)_
+# Protokoll HH-WEB-YY-M
 
 Protokoll für das Web Development Bootcamp _Kurs_ in Hamburg.
-Die Protokoll Besprechung startet morgens um 9:30 Uhr ohne Coaches.
+Die Protokollbesprechung startet morgens um 9:30 Uhr ohne Coaches.
 
-## Teilnehmer\*innen
+## Teilnehmer:innen
 
 _Liste der Kursteilnehmer:innen alphabetisch sortiert nach Vorname_
 

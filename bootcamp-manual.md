@@ -3,7 +3,6 @@
 ## Anwesenheit
 
 - Vor Ort: Jeden Morgen wird eine Anwesenheitsliste unterschrieben.
-
 - Remote: Jeden Morgen wird ein Screenshot vom Zoommeeting gemacht für das Protokoll.
 
 Bitte achtet...
@@ -55,9 +54,9 @@ Bitte achtet...
 
 - 9:30 Uhr: Protokoll besprechen
 - 10:00 Uhr: Theorie und Praxis
-- 13:00 Uhr: Lunch für 60 Minuten
+- 13:00 Uhr: Mittagspause
 - 14:00 Uhr - 15:00: Theorie und Praxis
-- ab ca. 15:00 Uhr: flexible Übungen
+- ab ca. 15:00 Uhr: Übungen
 - 17:00 Uhr: Checkout
 
 ## Slack
