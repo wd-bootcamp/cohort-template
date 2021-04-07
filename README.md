@@ -1,36 +1,20 @@
-# web-protocol-template
+# Protokoll HH-WEB-YY-M
 
-## Template for web development bootcamp protocol repositories. Be sure to change dates and names.
+Protokoll für das Web Development Bootcamp _Kurs_ in Hamburg.
+Die Protokollbesprechung startet morgens um 9:30 Uhr ohne Coaches.
 
-# README
+## Teilnehmer:innen
 
-Protocol for web develompent bootcamp #5 in Hamburg.
-Protocol discussion starts at 9:30, without coaches.
+_Liste der Kursteilnehmer:innen alphabetisch sortiert nach Vorname_
 
-# TeilnehmerInnen
+## Inhaltsverzeichnis
 
-| **#** | **Name**  |
-| ----- | --------- |
-| 1     | Alexander |
-| 2     | Anja      |
-| 3     | Benjamin  |
-| 4     | Christine |
-| 5     | Cindy     |
-| 6     | Dajana    |
-| 7     | Fabian    |
-| 8     | Felix     |
-| 9     | Jana      |
-| 10    | Julian    |
-| 11    | Lennart   |
-| 12    | Mario     |
-| 13    | Nina      |
-| 14    | Oliver    |
-| 15    | Torsten   |
+- [11.01.2021, Monday](/week1/2021-01-11-monday.md)
 
-# Links zu Team Repositorys _**Update mit erster Team Aufgabe**_
-
-# Inhaltsverzeichnis
-
-- [21.09.2020, Montag](/2020-09-21-monday.md)
   - Vorstellung neuefische
-  - Entwicklerumgebung kennen lernen
+  - Entwicklungsumgebung kennen lernen
+
+- [12.01.2021, Tuesday](/week1/2021-01-12-tuesday.md)
+
+  - Shell und Unix Commands
+  - Version Control, Git, Github
