@@ -14,27 +14,6 @@ Bitte achtet...
 ![example image](images/EXAMPLE.png)
 ![2021/01/11](images/2021-01-11.png)
 
-## Lehrstrategie
-
-- **Täglich neue Inhalte**: Sei aufmerksam und mach dir viele Notizen
-- **Freitags Wochenaufgabe**: Wiederhole den Inhalt der Woche in einer Gruppe oder alleine
-- **Selbständigkeit**: Du wirst viel selbständig arbeiten und lernen
-- **Stress**: Stress und schlaflose Nächte sind normal :)
-- **Frust**: Misserfolge, Frust und schlechte Laune leider auch, die du aber bitte nicht in der Gruppe auslassen wirst
-- **Verhalten**: Sei professionell, ordentlich, pünktlich und gib Bescheid, wenn etwas fehlt
-- **Fragen**: Frage bei Problemen die Coaches, Sarah oder Sina via Slack
-
-## Tipps den Kurs durchzustehen
-
-- Akzeptiere, dass du nicht alles direkt verstehst
-- Sei nicht zu stolz oder schüchtern und stelle viele Fragen
-- Erstelle dir deine eigenen Notizen
-- Trinke viel Wasser und/oder Tee
-- Genieße Kaffee in Maßen und verzichte auf zuckerhaltige Getränke
-- Vermeide das "Schnitzeltief" und esse etwas leichtes in der Mittagspause
-- Lege mindestens eine Stunde vor dem Schlafengehen dein Handy und Laptop weg
-- Feiern ist wichtig, trinke aber nicht zu viel Alkohol
-
 ## Wochenschwerpunkte
 
 1. **Woche**: Shell, Git, Markdown, HTML, CSS Basics
@@ -52,8 +31,8 @@ Bitte achtet...
 
 ## Tagesablauf
 
-- 9:30 Uhr: Protokoll besprechen
-- 10:00 Uhr: Theorie und Praxis
+- 09:00 Uhr: Protokoll besprechen
+- 09:30 Uhr: Theorie und Praxis
 - 13:00 Uhr: Mittagspause
 - 14:00 Uhr - 15:00: Theorie und Praxis
 - ab ca. 15:00 Uhr: Übungen
@@ -72,7 +51,7 @@ Auf Nachrichten immer im **Thread** Antworten, damit nur Interessierte benachric
 
 ## Zoom
 
-Unser digitaler Klassenraum ist im [Zoom](https://zoom.neuefische.de).
+Unser digitaler Klassenraum ist im [Zoom](https://learn.neuefische.de).
 
 - Mit `Reactions` kann non-verbal reagiert werden, z.B. zustimmen, abstimmen, nach einer Pause Fragen, "Bitte langsamer" etc.
 - Für Übungen gibt es Breakout Rooms und alle werden zufällig verteilt.
