@@ -24,7 +24,7 @@ next-author: Nächster-Name
 ### Thema-1
 
 ---
-## Links
+## Material & Links
 - Link-zu-dem-Thema
 
 ---
