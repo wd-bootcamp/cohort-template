@@ -15,4 +15,4 @@ _Liste der Kursteilnehmer:innen alphabetisch sortiert nach Vorname_
 
 ### Woche 1: HTML
 
-- [11.01.2021, Monday](/week1/2021-01-11-monday.md)
+- [11.01.2022, Monday](/week1/2022-01-11-monday.md)

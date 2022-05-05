@@ -10,7 +10,7 @@ git clone <ssh url> # e.g., 'git clone git@github.com:neuefische/...'
 
 ## Steps for every day
 
-1. Update your local repository before working in it (`git switch main`, then `git pull`)
+1. Update your local repository before working in it (`git switch main` (alternative: `git checkout main`), then `git pull`)
 2. Create a new branch (example name: `weekX-dayY`) and switch to it.
 3. Copy the `template.md` file and paste it into your current week's folder.
 4. Rename the copied template file (example: `2022-XX-XX-monday.md`).
@@ -29,4 +29,5 @@ git clone <ssh url> # e.g., 'git clone git@github.com:neuefische/...'
     - write down open questions which you want to discuss with your coaches after the student recap
     - commit and push your changes after the questions are answered.
 11. Tell the next author that he/she is going to write the protocol tomorrow.
-12. Merge your Pull Request into main and delete your branch.
+12. On GitHub, merge your Pull Request into main and delete your branch.
+13. On your computer, checkout/switch to main, pull your merged changes and delete the feature branch you have worked in.
