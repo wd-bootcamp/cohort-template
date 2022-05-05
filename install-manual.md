@@ -2,7 +2,7 @@
 
 ## Once
 
-Clone the repository via its ssh key:
+Clone the repository via its ssh url:
 
 ```
 git clone <ssh url> # e.g., 'git clone git@github.com:neuefische/...'
