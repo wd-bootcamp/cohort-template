@@ -18,7 +18,7 @@ git clone <ssh url> # e.g., 'git clone git@github.com:neuefische/...'
 6. In the `images` folder, upload the screenshot for attendence (example name: `WD_22.3_HH_XX.XX.2022.png`).
 
    - The `22.3_HH` part represents your course id and location.
-   - Make sure that all names, date and time are visible.
+   - Make sure that all names, date and time are visible ([read here how to display all names in zoom](docs/zoom-participant-manual.md)).
 
 7. Update your markdown file with the notes, pictures and links of the day; follow the checklist and delete it as soon as you are done.
 8. Commit and push your changes to GitHub.
