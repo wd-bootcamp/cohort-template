@@ -5,7 +5,7 @@ Die Student Review startet morgens um **9:00** Uhr ohne Coaches.
 
 ## Use this Repository
 
-- [Guide how to use this repository](/install-manual.md).
+- [Guide how to use this repository](/docs/install-manual.md)
 
 ## Teilnehmer:innen
 
