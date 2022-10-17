@@ -1,4 +1,4 @@
-# Student Review HH-WEB-YY-MM
+# Student Review WEB-[location]-YY-Coursenumber
 
 Student Review für das Web Development Bootcamp _Kurs_ in _Ort_.
 Die Student Review startet morgens um **9:00** Uhr ohne Coaches.
