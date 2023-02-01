@@ -9,7 +9,7 @@ Bitte achtet...
 
 - auf den Dateinamen `WD_<course-id>_dd.mm.20xx.png` und legt die Bilder im Ordner `/images` ab
 - ersetzt `<course-id>` mit eurer Kurs ID , z.B. `HH_22.6`
-- achtet darauf, dass das Datum im Namen korrekt ist (erst Jahr, dann Monat, dann Tag)
+- achtet darauf, dass das Datum im Namen korrekt ist (erst Tag, dann Monat, dann Jahr)
 - darauf, dass die Vor- und Nachnamen sichtbar sind
 - darauf, dass das Datum sichtbar ist (am Besten den Screenshot als Fullscreen machen `cmd + shift + 3`)
 
