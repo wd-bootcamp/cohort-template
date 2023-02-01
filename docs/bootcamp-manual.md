@@ -44,7 +44,7 @@ Bitte achtet...
 Slack ist unser alltägliches schriftliches Kommunikationstool. Kann als App oder im Web geöffnet werden, App bevorzugt. Wir sind nicht alleine auf dem Server, es gibt noch die anderen Köllner, Münchener und Hamburger Kurse und viele Alumni. Jeder Kurs hat seinen eigenen privaten Channel.
 
 - **Profil**: Profilbilder machen das ganze etwas Persönlicher :)
-- **Ausfallzeiten**: über Slack kommunizieren, wenn planbar möglichst frühzeitig mit Sarah, Sina und Coaches besprechen, kurze Verspätungen im privaten Channel
+- **Ausfallzeiten**: über Slack kommunizieren, wenn planbar möglichst frühzeitig mit Coaches besprechen
 
 ### Eine kleine Regel:
 
