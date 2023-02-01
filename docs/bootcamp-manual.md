@@ -13,7 +13,7 @@ Bitte achtet...
 - darauf, dass die Vor- und Nachnamen sichtbar sind
 - darauf, dass das Datum sichtbar ist (am Besten den Screenshot als Fullscreen machen `cmd + shift + 3`)
 
-![2021/01/11](images/../../images/WD_HH-22.1_dd-mm-20xx.png)
+![2021/01/11](../images/WD_HH_21.1_dd.mm.20xx.png)
 
 ## Wochenschwerpunkte
 
