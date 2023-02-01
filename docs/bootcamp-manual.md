@@ -7,14 +7,13 @@
 
 Bitte achtet...
 
-- auf den Dateinamen `<course-id>-20xx-mm-dd.png` und legt die Bilder im Ordner `/images` ab
-- ersetzt `<course-id>` mit eurer Kurs ID , z.B. `hh-web-22-6`
+- auf den Dateinamen `WD_<course-id>_dd-mm-20xx.png` und legt die Bilder im Ordner `/images` ab
+- ersetzt `<course-id>` mit eurer Kurs ID , z.B. `HH-22-6`
 - achtet darauf, dass das Datum im Namen korrekt ist (erst Jahr, dann Monat, dann Tag)
 - darauf, dass die Vor- und Nachnamen sichtbar sind
 - darauf, dass das Datum sichtbar ist (am Besten den Screenshot als Fullscreen machen `cmd + shift + 3`)
 
-![example image](images/EXAMPLE.png)
-![2021/01/11](images/2021-01-11.png)
+![2021/01/11](images/../../images/WD_HH-22.1_dd-mm-20xx.png)
 
 ## Wochenschwerpunkte
 
