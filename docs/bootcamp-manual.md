@@ -18,13 +18,13 @@ Bitte achtet...
 ## Wochenschwerpunkte
 
 1. **Woche**: Shell, Git, Markdown, HTML, CSS Basics
-1. **Woche**: CSS Advanced
-1. **Woche**: JavaScript Basics
+1. **Woche**: CSS Advanced, JavaScript Basics
+1. **Woche**: JavaScript Basics & Advanced
 1. **Woche**: JavaScript Advanced
 1. **Woche**: React Basics
-1. **Woche**: React Advanced
-1. **Woche**: Backend, Node.js, MongoDB
-1. **Woche**: Product Development, Vorbereitung Digitales Gesellenstück
+1. **Woche**: React, Next.js, styled-components
+1. **Woche**: React Advanced, Backend Basics
+1. **Woche**: Backend Advanced, Agile & Design Workshops
 1. **Woche | Digitales Gesellenstück**: Sprint 1
 1. **Woche | Digitales Gesellenstück**: Sprint 2
 1. **Woche | Digitales Gesellenstück**: Sprint 3
@@ -34,9 +34,9 @@ Bitte achtet...
 
 - 09:00 Uhr: Protokoll besprechen
 - 09:30 Uhr: Theorie und Praxis
+- 12:15 Uhr: Research Time
 - 13:00 Uhr: Mittagspause
-- 14:00 Uhr - 15:00: Theorie und Praxis
-- ab ca. 15:00 Uhr: Übungen
+- 14:00 Uhr: Theorie und Praxis
 - 17:00 Uhr: Checkout
 
 ## Slack
