@@ -48,4 +48,4 @@ next-author: Nächster-Name
 
 ## Anwesenheit
 
-![Uhrzeit](images/weekx-dayx.png)
+![Datum](images/WD_<course-id>_dd.mm.20xx.png)

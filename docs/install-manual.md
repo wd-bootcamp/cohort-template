@@ -15,9 +15,9 @@ git clone <ssh url> # e.g., 'git clone git@github.com:neuefische/...'
 3. Copy the `template.md` file and paste it into your current week's folder.
 4. Rename the copied template file (example: `2022-XX-XX-monday.md`).
 5. Save your file and commit your changes.
-6. In the `images` folder, upload the screenshot for attendence (example name: `WD_22.3_HH_XX.XX.2022.png`).
+6. In the `images` folder, upload the screenshot for attendence (example name: `WD_HH_22.3_dd.mm.20xx.png`).
 
-   - The `22.3_HH` part represents your course id and location.
+   - The `HH_22.3` part represents your course id and location.
    - Make sure that all names, date and time are visible ([read here how to display all names in zoom](docs/zoom-participant-manual.md)).
 
 7. Update your markdown file with the notes, pictures and links of the day; follow the checklist and delete it as soon as you are done.
