@@ -7,11 +7,13 @@ The students recap starts every morning at 9:00 am without coaches.
 
 - [Guide how to use this repository](/docs/install-manual.md)
 
+---
+
 ## Participants
 
 _List of participants of the course in alphabetic order_
 
-## Table of contents
+---
 
 ## Session overview
 
@@ -124,6 +126,8 @@ _List of participants of the course in alphabetic order_
 | 14:00 | Backend Update and Delete |    Recap Project 6    |    Design Workshop    | Capstone Forum |        How to Capstone         |
 | 16:45 |             →             |           →           |      _checkout_       |       ←        |               ←                |
 | 17:00 |             →             |           →           | _individual practice_ |       ←        |               ←                |
+
+---
 
 ### week 9 - 12
 
