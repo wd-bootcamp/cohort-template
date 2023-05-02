@@ -131,10 +131,10 @@ _List of participants of the course in alphabetic order_
 
 ### week 9 - 12
 
-| Time  | Monday | Tuesday | Wednesday     | Thursday | Friday |
-| ----- | ------ | ------- | ------------- | -------- | ------ |
-| 9:00  | →      | →       | daily standup | ←        | ←      |
-| 9:30  | →      | →       | Capstone      | ←        | ←      |
-| 13:00 | →      | →       | lunch break   | ←        | ←      |
-| 14:00 | →      | →       | Capstone      | ←        | ←      |
-| 16:45 | →      | →       | checkout      | ←        | ←      |
+| Time  | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |
+| ----- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 9:00  | daily standup | daily standup | daily standup | daily standup | daily standup |
+| 9:30  | Capstone      | Capstone      | Capstone      | Capstone      | Capstone      |
+| 13:00 | lunch break   | lunch break   | lunch break   | lunch break   | lunch break   |
+| 14:00 | Capstone      | Capstone      | Capstone      | Capstone      | Capstone      |
+| 16:45 | checkout      | checkout      | checkout      | checkout      | checkout      |
