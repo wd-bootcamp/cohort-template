@@ -1,19 +1,8 @@
-# Bootcamp Manual
+# Bootcamp Info
 
 ## Anwesenheit
 
-- Vor Ort: Jeden Morgen wird eine Anwesenheitsliste unterschrieben.
-- Remote: Jeden Morgen wird ein Screenshot vom Zoommeeting gemacht für das Protokoll.
-
-Bitte achtet...
-
-- auf den Dateinamen `WD_<course-id>_dd.mm.20xx.png` und legt die Bilder im Ordner `/images` ab
-- ersetzt `<course-id>` mit eurer Kurs ID , z.B. `HH_22.6`
-- achtet darauf, dass das Datum im Namen korrekt ist (erst Tag, dann Monat, dann Jahr)
-- darauf, dass die Vor- und Nachnamen sichtbar sind
-- darauf, dass das Datum sichtbar ist (am Besten den Screenshot als Fullscreen machen `cmd + shift + 3`)
-
-![2021/01/11](../images/WD_HH_21.1_dd.mm.20xx.png)
+Wir überprüfen einmal am Tag die Anwesenheit. Die Anwesenheitspflicht gilt allerdings für die gesamte Dauer des Bootcamps. Sollte es zu unentschuldigten Fehlzeiten kommen, kann das zu einem Ausschluss aus dem Bootcamp führen.
 
 ## Wochenschwerpunkte
 
@@ -32,7 +21,7 @@ Bitte achtet...
 
 ## Tagesablauf
 
-- 09:00 Uhr: Protokoll besprechen
+- 09:00 Uhr: Aufgaben des Vortags Besprechen
 - 09:30 Uhr: Theorie und Praxis
 - 12:15 Uhr: Research Time
 - 13:00 Uhr: Mittagspause
@@ -43,7 +32,7 @@ Bitte achtet...
 
 Slack ist unser alltägliches schriftliches Kommunikationstool. Kann als App oder im Web geöffnet werden, App bevorzugt. Wir sind nicht alleine auf dem Server, es gibt noch die anderen Kölner, Münchener und Hamburger Kurse und viele Alumni. Jeder Kurs hat seinen eigenen privaten Channel.
 
-- **Profil**: Profilbilder machen das Ganze etwas persönlicher :)
+- **Profil**: Profilbilder machen das Ganze etwas persönlicher :-)
 - **Ausfallzeiten**: über Slack kommunizieren, wenn planbar möglichst frühzeitig mit Coaches besprechen
 
 ### Eine kleine Regel:
