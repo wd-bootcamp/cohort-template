@@ -1,4 +1,4 @@
-# Shell Setup
+# Computer Setup
 
 > 💡 This will install and configure the software you'll be using during this bootcamp.
 
