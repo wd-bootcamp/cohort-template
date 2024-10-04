@@ -2,11 +2,11 @@
 
 Please follow this workflow when working on challenges. It helps you practicing the git branches commands every day. Practice makes perfect!
 
-1. In the `challenges` repository, make sure you are on the `main` branch.
+1. In the `web-challenges` repository, make sure you are on the `main` branch.
 2. Create a folder with the name of the session. For example, `css-basic`.
 3. Navigate to the folder created in step 2, e.g., `css-basics`.
 4. Once you are inside the folder, download **all** the challenges.
-5. Navigate back to the main folder of the repository, `challenges`.
+5. Navigate back to the main folder of the repository, `web-challenges`.
 6. Add the files and create a commit:
 
    ```bash
