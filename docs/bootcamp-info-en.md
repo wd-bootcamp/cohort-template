@@ -10,12 +10,12 @@ We check attendance once a day. However, attendance is required for the entire d
 4. **Week**: JavaScript Advanced
 5. **Week**: React Basics
 6. **Week**: React, Next.js, Styled-components
-   7 **Week**: React Advanced, Backend Basics
-7. **Week**: Backend Advanced, Agile & Design Workshops
-8. **Week | Capstone Phase**: Sprint 1
-9. **Week | Capstone Phase**: Sprint 2
-10. **Week | Capstone Phase**: Sprint 3
-11. **Woche | Capstone Phase**: Sprint 4
+7. **Week**: React Advanced, Backend Basics
+8. **Week**: Backend Advanced, Agile & Design Workshops
+9. **Week | Capstone Phase**: Sprint 1
+10. **Week | Capstone Phase**: Sprint 2
+11. **Week | Capstone Phase**: Sprint 3
+12. **Woche | Capstone Phase**: Sprint 4
 
 ## Daily Schedule
 

@@ -14,59 +14,59 @@ Student repository for the web development bootcamp web-[location]-[year]-[cours
 
 ### week 1
 
-|           | Monday              | Tuesday            | Wednesday           | Thursday               | Friday          |
-| --------- | ------------------- | ------------------ | ------------------- | ---------------------- | --------------- |
-| morning   | Welcome             | Shell Basics       | Git Branches and PR | CSS Basics             | CSS Flexbox     |
-| afternoon | GitHub and Markdown | Git CLI and remote | HTML and the Web    | Self Directed Learning | CSS Positioning |
+|           | Monday              | Tuesday          | Wednesday           | Thursday               | Friday          |
+| --------- | ------------------- | ---------------- | ------------------- | ---------------------- | --------------- |
+| morning   | Welcome             | Shell Basics     | Git CLI and remote  | CSS Basics             | CSS Positioning |
+| afternoon | GitHub and Markdown | HTML and the Web | Git Branches and PR | Self Directed Learning | CSS Flexbox     |
 
 ### week 2
 
-|           | Monday          | Tuesday       | Wednesday                  | Thursday               | Friday         |
-| --------- | --------------- | ------------- | -------------------------- | ---------------------- | -------------- |
-| morning   | Recap Project 1 | JS Basics     | JS Variables and Numbers   | CSS Responsive         | JS Functions 1 |
-| afternoon | Recap Project 1 | CSS Structure | JS Conditions and Booleans | Self Directed Learning | JS Functions 2 |
+|           | Monday         | Tuesday         | Wednesday               | Thursday                   | Friday                |
+| --------- | -------------- | --------------- | ----------------------- | -------------------------- | --------------------- |
+| morning   | CSS Structure  | Recap Project 1 | JS Basics and Variables | JS Conditions and Booleans | JS Objects and Arrays |
+| afternoon | CSS Responsive | Accessibility   | JS Events and DOM       | Self Directed Learning     | JS Functions          |
 
 ### week 3
 
-|           | Monday              | Tuesday               | Wednesday        | Thursday               | Friday           |
-| --------- | ------------------- | --------------------- | ---------------- | ---------------------- | ---------------- |
-| morning   | HTML Forms          | JS Objects and Arrays | JS createElement | Recap Project 2        | JS Array Methods |
-| afternoon | JS Inputs & Strings | JS Forms              | Recap Project 2  | Self Directed Learning | JS Structure     |
+|           | Monday              | Tuesday          | Wednesday       | Thursday               | Friday           |
+| --------- | ------------------- | ---------------- | --------------- | ---------------------- | ---------------- |
+| morning   | HTML Forms          | JS Forms         | Recap Project 2 | JS Loops               | JS Array Methods |
+| afternoon | JS Inputs & Strings | JS createElement | Recap Project 2 | Self Directed Learning | JS Structure     |
 
 ### week 4
 
-|           | Monday             | Tuesday        | Wednesday        | Thursday                                      | Friday       |
-| --------- | ------------------ | -------------- | ---------------- | --------------------------------------------- | ------------ |
-| morning   | JS Array Methods 2 | Error Handling | JS Modern Syntax | Recap Project 3                               | React Basics |
-| afternoon | JS Fetch           | Git Advanced   | Recap Project 3  | Self Directed Learning and/or Recap Project 3 | React Props  |
+|           | Monday            | Tuesday          | Wednesday       | Thursday               | Friday       |
+| --------- | ----------------- | ---------------- | --------------- | ---------------------- | ------------ |
+| morning   | JS Fetch          | Git Advanced     | Recap Project 3 | Mock Interview         | React Basics |
+| afternoon | JS Error Handling | JS Modern Syntax | Recap Project 3 | Self Directed Learning | React Props  |
 
 ### week 5
 
-|           | Monday        | Tuesday           | Wednesday           | Thursday               | Friday          |
-| --------- | ------------- | ----------------- | ------------------- | ---------------------- | --------------- |
-| morning   | React Nesting | React with Arrays | React State 3       | Local Storage          | Recap Project 4 |
-| afternoon | React State   | React State 2     | React Effects/Fetch | Self Directed Learning | Recap Project 4 |
+|           | Monday        | Tuesday           | Wednesday               | Thursday                 | Friday          |
+| --------- | ------------- | ----------------- | ----------------------- | ------------------------ | --------------- |
+| morning   | React Nesting | React with Arrays | React State 3           | React with Local Storage | Recap Project 4 |
+| afternoon | React State   | React State 2     | React Effects and Fetch | Self Directed Learning   | Recap Project 4 |
 
 ### week 6
 
-|           | Monday           | Tuesday                    | Wednesday               | Thursday               | Friday              |
-| --------- | ---------------- | -------------------------- | ----------------------- | ---------------------- | ------------------- |
-| morning   | Recap Project 4  | Next.js Basics and Routing | React Styled Components | React Global State     | React Data Fetching |
-| afternoon | Capstone Kickoff | Next.js Dynamic Routes     | React Styled Components | Self Directed Learning | Recap Project 5     |
+|           | Monday          | Tuesday         | Wednesday                  | Thursday                | Friday                  |
+| --------- | --------------- | --------------- | -------------------------- | ----------------------- | ----------------------- |
+| morning   | Recap Project 4 | Recap Project 4 | Next.js Basics and Routing | React Styled Components | JS Unit Testing         |
+| afternoon | Recap Project 4 | Mock Interview  | Next.js Dynamic Routes     | Self Directed Learning  | React Component Testing |
 
 ### week 7
 
-|           | Monday          | Tuesday            | Wednesday       | Thursday               | Friday                    |
-| --------- | --------------- | ------------------ | --------------- | ---------------------- | ------------------------- |
-| morning   | Recap Project 5 | Backend Basics     | Backend MongoDB | Backend Create         | Backend Update and Delete |
-| afternoon | Recap Project 5 | Backend API Routes | Backend Read    | Self Directed Learning | Recap Project 6           |
+|           | Monday              | Tuesday         | Wednesday       | Thursday               | Friday          |
+| --------- | ------------------- | --------------- | --------------- | ---------------------- | --------------- |
+| morning   | React Global State  | Recap Project 5 | Recap Project 5 | Backend API Routes     | Backend MongoDB |
+| afternoon | React Data Fetching | Recap Project 5 | Backend Basics  | Self Directed Learning | Backend Read    |
 
 ### week 8
 
-|           | Monday         | Tuesday         | Wednesday       | Thursday            | Friday                      |
-| --------- | -------------- | --------------- | --------------- | ------------------- | --------------------------- |
-| morning   | Agile Workflow | Design Workshop | Design Workshop | Frontend-CRUD Recap | Agile Setup / Project Board |
-| afternoon | User Stories   | Capstone Forum  | Capstone Forum  | Frontend-CRUD Recap | How to Capstone             |
+|           | Monday                    | Tuesday                         | Wednesday                   | Thursday        | Friday          |
+| --------- | ------------------------- | ------------------------------- | --------------------------- | --------------- | --------------- |
+| morning   | Backend Create            | Recap Project 6                 | Design Workshop             | Design Workshop | Capstone Prep   |
+| afternoon | Backend Update and Delete | Agile Workflow and User Stories | Capstone Grouping and Setup | Capstone Prep   | How to Capstone |
 
 ### week 9 - 12
 
