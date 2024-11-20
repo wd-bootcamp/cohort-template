@@ -1,6 +1,6 @@
 # Student Recap [location]-web-[year]-[coursenumber]
 
-Student repository for the web development bootcamp web-[location]-[year]-[coursenumber].
+Student repository for the web development bootcamp [location]-web-[year]-[coursenumber].
 
 ## Use this Repository
 
