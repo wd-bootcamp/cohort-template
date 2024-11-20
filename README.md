@@ -24,7 +24,7 @@ Student repository for the web development bootcamp web-[location]-[year]-[cours
 |           | Monday         | Tuesday         | Wednesday               | Thursday                   | Friday                |
 | --------- | -------------- | --------------- | ----------------------- | -------------------------- | --------------------- |
 | morning   | CSS Structure  | Recap Project 1 | JS Basics and Variables | JS Conditions and Booleans | JS Objects and Arrays |
-| afternoon | CSS Responsive | Accessibility   | JS Events and DOM       | Self Directed Learning     | JS Functions          |
+| afternoon | CSS Responsive | Accessibility   | JS DOM and Events       | Self Directed Learning     | JS Functions          |
 
 ### Week 3
 
@@ -63,10 +63,10 @@ Student repository for the web development bootcamp web-[location]-[year]-[cours
 
 ### Week 8
 
-|           | Monday                    | Tuesday                         | Wednesday                   | Thursday        | Friday          |
-| --------- | ------------------------- | ------------------------------- | --------------------------- | --------------- | --------------- |
-| morning   | Backend Create            | Recap Project 6                 | Design Workshop             | Design Workshop | Capstone Prep   |
-| afternoon | Backend Update and Delete | Agile Workflow and User Stories | Capstone Grouping and Setup | Capstone Prep   | How to Capstone |
+|           | Monday                    | Tuesday                         | Wednesday        | Thursday                    | Friday          |
+| --------- | ------------------------- | ------------------------------- | ---------------- | --------------------------- | --------------- |
+| morning   | Backend Create            | Recap Project 6                 | Design Workshop  | Capstone Grouping and Setup | Capstone Prep   |
+| afternoon | Backend Update and Delete | Agile Workflow and User Stories | Design Workshop  | Capstone Prep               | How to Capstone |
 
 ### Week 9 - 12
 
