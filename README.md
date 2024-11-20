@@ -73,4 +73,4 @@ Student repository for the web development bootcamp [location]-web-[year]-[cours
 |           | Monday   | Tuesday  | Wednesday | Thursday | Friday    |
 | --------- | -------- | -------- | --------- | -------- | --------- |
 | morning   | Capstone | Capstone | Capstone  | Capstone | Capstone  |
-| afternoon | Capstone | Capstone | Capstone  | Capstone | HCapstone |
+| afternoon | Capstone | Capstone | Capstone  | Capstone | Capstone |
