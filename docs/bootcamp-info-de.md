@@ -7,26 +7,26 @@ Wir überprüfen einmal am Tag die Anwesenheit. Die Anwesenheitspflicht gilt all
 ## Wochenschwerpunkte
 
 1. **Woche**: Shell, Git, Markdown, HTML, CSS Basics
-1. **Woche**: CSS Advanced, JavaScript Basics
-1. **Woche**: JavaScript Basics & Advanced
-1. **Woche**: JavaScript Advanced
-1. **Woche**: React Basics
-1. **Woche**: React, Next.js, styled-components
-1. **Woche**: React Advanced, Backend Basics
-1. **Woche**: Backend Advanced, Agile & Design Workshops
-1. **Woche | Digitales Gesellenstück**: Sprint 1
-1. **Woche | Digitales Gesellenstück**: Sprint 2
-1. **Woche | Digitales Gesellenstück**: Sprint 3
-1. **Woche | Digitales Gesellenstück**: Sprint 4
+2. **Woche**: CSS Advanced, JavaScript Basics
+3. **Woche**: JavaScript Basics & Advanced
+4. **Woche**: JavaScript Advanced
+5. **Woche**: React Basics
+6. **Woche**: React, Next.js, styled-components
+7. **Woche**: React Advanced, Backend Basics
+8. **Woche**: Backend Advanced, Agile & Design Workshops
+9. **Woche | Digitales Gesellenstück**: Sprint 1
+10. **Woche | Digitales Gesellenstück**: Sprint 2
+11. **Woche | Digitales Gesellenstück**: Sprint 3
+12. **Woche | Digitales Gesellenstück**: Sprint 4
 
 ## Tagesablauf
 
-- 09:00 Uhr: Aufgaben des Vortags besprechen
-- 09:30 Uhr: Theorie und Praxis
-- 12:15 Uhr: Research Time
-- 13:00 Uhr: Mittagspause
-- 14:00 Uhr: Theorie und Praxis
-- 17:00 Uhr: Checkout
+09:00 Uhr: Aufgaben des Vortags besprechen  
+09:30 Uhr: Theorie und Praxis  
+12:15 Uhr: Research Time  
+13:00 Uhr: Mittagspause  
+14:00 Uhr: Theorie und Praxis  
+17:00 Uhr: Checkout  
 
 ## Slack
 
