@@ -1,4 +1,4 @@
-# Student Recap web-[location]-[year]-[coursenumber]
+# Student Recap [location]-web-[year]-[coursenumber]
 
 Student repository for the web development bootcamp web-[location]-[year]-[coursenumber].
 
