@@ -19,12 +19,12 @@ We check attendance once a day. However, attendance is required for the entire d
 
 ## Daily Schedule
 
-09:00 AM: Discuss the exercises from the previous day
-09:30 AM: Theory and practice
-12:15 PM: Research time
-01:00 PM: Lunch break
-02:00 PM: Theory and practice
-05:00 PM: Checkout
+09:00 AM: Discuss the exercises from the previous day.  
+09:30 AM: Theory and practice 
+12:15 PM: Research time  
+01:00 PM: Lunch break  
+02:00 PM: Theory and practice  
+05:00 PM: Checkout  
 
 ## Slack
 
