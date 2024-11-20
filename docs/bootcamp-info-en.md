@@ -2,14 +2,14 @@
 
 ## Attendance
 
-We check attendance once a day. However, attendance is required for the entire duration of the bootcamp. Unexcused absences may lead to exclusion from the bootcamp.
+We check attendance once a day. However, attendance is required for the entire duration of the bootcamp. Unexcused absences may result in exclusion from the bootcamp.
 
 1. **Week**: Shell, Git, Markdown, HTML, CSS Basics
 2. **Week**: CSS Advanced, JavaScript Basics
 3. **Week**: JavaScript Basics & Advanced
 4. **Week**: JavaScript Advanced
 5. **Week**: React Basics
-6. **Week**: React, Next.js, Styled-components
+6. **Week**: React, Next.js, styled-components
 7. **Week**: React Advanced, Backend Basics
 8. **Week**: Backend Advanced, Agile & Design Workshops
 9. **Week | Capstone Phase**: Sprint 1
@@ -28,10 +28,10 @@ We check attendance once a day. However, attendance is required for the entire d
 
 ## Slack
 
-Slack is our daily written communication tool. It can be accessed via app or web, with the app preferred. We are not alone on the server; there are other courses from Cologne, Munich, and Hamburg, as well as many alumni. Each course has its own private channel.
+Slack is our primary written communication tool. It can be accessed via app or web, with the app being preferred. We share the server with other courses from Cologne, Munich, and Hamburg, as well as many alumni. Each course has its own private channel.
 
-- **Profile: Profile** pictures make it more personal :-)
-- **Absence:** Communicate via Slack, if possible, discuss with coaches early if planned.
+- **Profile:** Adding profile pictures makes it more personal. :-)
+- **Absence:** Communicate absences via Slack. If planned, discuss them with the coaches early.
 
 ## A Small Rule:
 
@@ -39,7 +39,7 @@ Always respond to messages in the thread to ensure only interested parties are n
 
 ## Zoom
 
-Our digital classroom is on Zoom.
+Our digital classroom is on [Zoom](https://learn.neuefische.de).
 
-- Use Reactions for non-verbal responses, such as agreeing, voting, asking for a break, "Please slow down," etc.
-- For exercises, there are breakout rooms, and everyone is randomly distributed.
+- Use **Reactions** for non-verbal responses, such as agreeing, voting, asking for a break, "Please slow down," etc.
+- For exercises, breakout rooms are used, and everyone is randomly distributed.
