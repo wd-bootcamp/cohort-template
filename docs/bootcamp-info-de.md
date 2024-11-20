@@ -21,7 +21,7 @@ Wir überprüfen einmal am Tag die Anwesenheit. Die Anwesenheitspflicht gilt all
 
 ## Tagesablauf
 
-- 09:00 Uhr: Aufgaben des Vortags Besprechen
+- 09:00 Uhr: Aufgaben des Vortags besprechen
 - 09:30 Uhr: Theorie und Praxis
 - 12:15 Uhr: Research Time
 - 13:00 Uhr: Mittagspause
@@ -30,18 +30,18 @@ Wir überprüfen einmal am Tag die Anwesenheit. Die Anwesenheitspflicht gilt all
 
 ## Slack
 
-Slack ist unser alltägliches schriftliches Kommunikationstool. Kann als App oder im Web geöffnet werden, App bevorzugt. Wir sind nicht alleine auf dem Server, es gibt noch die anderen Kölner, Münchener und Hamburger Kurse und viele Alumni. Jeder Kurs hat seinen eigenen privaten Channel.
+Slack ist unser alltägliches schriftliches Kommunikationstool. Es kann als App oder im Web geöffnet werden (App bevorzugt). Wir sind nicht alleine auf dem Server, es gibt noch die anderen Kölner, Münchener und Hamburger Kurse und viele Alumni. Jeder Kurs hat seinen eigenen privaten Channel.
 
-- **Profil**: Profilbilder machen das Ganze etwas persönlicher :-)
-- **Ausfallzeiten**: über Slack kommunizieren, wenn planbar möglichst frühzeitig mit Coaches besprechen
+- **Profil**: Profilbilder machen das Ganze etwas persönlicher. :-)
+- **Ausfallzeiten**: über Slack kommunizieren, wenn planbar, möglichst frühzeitig mit Coaches besprechen.
 
 ### Eine kleine Regel:
 
-Auf Nachrichten immer im **Thread** Antworten, damit nur Interessierte benachrichtigt werden und Nachrichten organisiert sind.
+Auf Nachrichten immer im **Thread** antworten, damit nur Interessierte benachrichtigt werden und Nachrichten organisiert bleiben.
 
 ## Zoom
 
-Unser digitaler Klassenraum ist im [Zoom](https://learn.neuefische.de).
+Unser digitaler Klassenraum ist in [Zoom](https://learn.neuefische.de).
 
-- Mit `Reactions` kann non-verbal reagiert werden, z.B. zustimmen, abstimmen, nach einer Pause Fragen, "Bitte langsamer" etc.
-- Für Übungen gibt es Breakout Rooms und alle werden zufällig verteilt.
+- Mit **Reactions** kann non-verbal reagiert werden, z.B. zustimmen, abstimmen, nach einer Pause fragen, "Bitte langsamer" etc.
+- Für Übungen gibt es Breakout Rooms, in die alle zufällig verteilt werden.
