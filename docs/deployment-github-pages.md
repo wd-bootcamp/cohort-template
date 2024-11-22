@@ -13,14 +13,14 @@ We will deploy, or publish, our web page(s) to GitHub Pages. Please note that th
 
 4. Select the branch you want to deploy. In our case, we will choose `main`. Click `Save`.
    > Please note that you can also select a **directory** to deploy before clicking `Save`, e.g., if the folder you want to deploy is not at the root of your repository.
-   
+
    ![Repo setting page](./assets/repo-settings-page-config.png)
 
-6. Your website is now deployed! To find the URL, click on the `Code` tab to return to your repository's main page.
-7. Add the URL in the `About` section of your repository.
+5. Your website is now deployed! To find the URL, click on the `Code` tab to return to your repository's main page.
+6. Add the URL in the `About` section of your repository.
    ![Repo main page](./assets/repo-main-page-1.png)
-8. On the pop-up, select `Use your Github Pages website` and then click `Save changes`.
+7. On the pop-up, select `Use your Github Pages website` and then click `Save changes`.
    ![Repo main page](./assets/repo-code-about-save.png)
-9. Your website’s URL is now displayed in the `About` section of your repository. Click on it to view your page!
+8. Your website’s URL is now displayed in the `About` section of your repository. Click on it to view your page!
 
 For more detailed information about deploying a website to GitHub Pages, refer to the [official GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).

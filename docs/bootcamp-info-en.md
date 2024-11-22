@@ -15,13 +15,13 @@ We check attendance once a day. However, attendance is required for the entire d
 9. **Week | Capstone Phase**: Sprint 1
 10. **Week | Capstone Phase**: Sprint 2
 11. **Week | Capstone Phase**: Sprint 3
-12. **Woche | Capstone Phase**: Sprint 4
+12. **Week | Capstone Phase**: Sprint 4
 
 ## Daily Schedule
 
 09:00 AM: Discuss the exercises from the previous day.  
-09:30 AM: Theory and practice   
-12:15 PM: Research time    
+09:30 AM: Theory and practice
+12:15 PM: Research time
 01:00 PM: Lunch break  
 02:00 PM: Theory and practice  
 05:00 PM: Checkout  
@@ -33,7 +33,7 @@ Slack is our primary written communication tool. It can be accessed via app or w
 - **Profile:** Adding profile pictures makes it more personal. :-)
 - **Absence:** Communicate absences via Slack. If planned, discuss them with the coaches early.
 
-### A Small Rule:
+### A Small Rule
 
 Always respond to messages in the thread to ensure only interested parties are notified and messages stay organized.
 

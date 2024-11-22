@@ -19,7 +19,7 @@ Vercel is a popular cloud web hosting provider with a fast deployment workflow. 
    - After deployment is complete, you’ll receive a URL to visit your live website.
    - Vercel provides automatic updates: Every time you push changes to GitHub, your site will redeploy.
    - When you create a pull request on Github, Vercel will automatcally create a **preview deployment** for that feature branch and post a link in the respective PR.
-6. **Deployment Protection**     
+6. **Deployment Protection**
   ⚠️ If others cannot access your deployment, it may be because **Deployment Protection** is turned on. To disable it:  
    - Navigate to the `Settings` tab of your project on Vercel.
    - Select `Deployment Protection`.
