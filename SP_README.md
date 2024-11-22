@@ -57,7 +57,7 @@ Student repository for the web development bootcamp web-[cohort-name].
 |           | Monday       | Tuesday       | Wednesday         | Thursday               | Friday              |
 |-----------|--------------|---------------|-------------------|------------------------|---------------------|
 | morning   | React Basics | React Nesting | React with Arrays | React State 3          | React Effects and Fetch |
-| afternoon | React Props  | React State   | React State 2     | Self Directed Learning | Local Storage       |
+| afternoon | React Props  | React State 1  | React State 2     | Self Directed Learning | Local Storage       |
 
 ### Week 6
 
