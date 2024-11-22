@@ -22,7 +22,7 @@ Student repository for the web development bootcamp web-[cohort-name].
 
 ## Session Overview
 
-> The exact order of the session is subject to change.
+> The exact order of the sessions is subject to change.
 
 ### week 1
 
