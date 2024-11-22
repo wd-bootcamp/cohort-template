@@ -87,9 +87,9 @@ Student repository for the web development bootcamp web-[cohort-name].
 | morning   | **Project Presentation**      | Design Workshop | How to Capstone | Capstone Forum | Capstone Forum |
 | afternoon | Agile Workflow & User Stories | Design Workshop | Capstone Forum  | Capstone Forum | Capstone Forum |
 
-### week 10 - 12
+### Week 10 - 12
 
 |           | Monday   | Tuesday  | Wednesday | Thursday | Friday    |
 |-----------|----------|----------|-----------|----------|-----------|
 | morning   | Capstone | Capstone | Capstone  | Capstone | Capstone  |
-| afternoon | Capstone | Capstone | Capstone  | Capstone | HCapstone |
+| afternoon | Capstone | Capstone | Capstone  | Capstone | Capstone |
