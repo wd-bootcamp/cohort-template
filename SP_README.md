@@ -49,7 +49,7 @@ Student repository for the web development bootcamp web-[cohort-name].
 
 |           | Monday           | Tuesday           | Wednesday        | Thursday               | Friday                   |
 |-----------|------------------|-------------------|------------------|------------------------|--------------------------|
-| morning   | JS Array Methods | JS Fetch          | Git Advance      | **Recap Project 3**    | **Project Presentation** |
+| morning   | JS Array Methods | JS Fetch          | Git Advanced      | **Recap Project 3**    | **Project Presentation** |
 | afternoon | JS Structure     | JS Error Handling | JS Modern Syntax | Self Directed Learning | Mock Interview 1         |
 
 ### Week 5
