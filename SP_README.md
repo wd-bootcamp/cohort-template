@@ -84,7 +84,7 @@ Student repository for the web development bootcamp web-[cohort-name].
 
 |           | Monday                        | Tuesday         | Wednesday       | Thursday      | Friday         |
 |-----------|-------------------------------|-----------------|-----------------|---------------|----------------|
-| morning   | **Project Presentation**      | Design Workshop | How to Capstone | Capstone Prep | Capstone Forum |
+| morning   | **Project Presentation**      | Design Workshop | Capstone Grouping | Capstone Prep | How to Forum |
 | afternoon | Agile Workflow & User Stories | Design Workshop | Capstone Prep   | Capstone Prep | Capstone Forum |
 
 ### Week 10 - 12
