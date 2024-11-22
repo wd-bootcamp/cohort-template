@@ -66,7 +66,7 @@ Student repository for the web development bootcamp web-[cohort-name].
 | morning   | **Recap Project 4** | **Recap Project 4** | **Recap Project 4**      | Mock Interview 2       | Next.js Basics and Routing |
 | afternoon | **Recap Project 4** | **Recap Project 4** | **Project Presentation** | Self Directed Learning | Next.js Dynamic Routes     |
 
-### week 7
+### Week 7
 
 |           | Monday                  | Tuesday                 | Wednesday              | Thursday            | Friday              |
 |-----------|-------------------------|-------------------------|------------------------|---------------------|---------------------|
