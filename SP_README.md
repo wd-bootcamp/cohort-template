@@ -1,7 +1,10 @@
 
 # Student Recap web-[cohort-Name]
 
-> Select the files that correspond to SP, other please **delete** them. The ones that need to be kept please verify that NF is not mention.
+> Please review and select the files required for the specific cohort (NF or SP). Delete any files that are irrelevant to the respective cohort. For the files you choose to keep:
+
+- If the file is for SP, remove all mentions of NF.
+- If the file is for NF, remove all mentions of SP.
 >
 
 Student repository for the web development bootcamp web-[cohort-name].
