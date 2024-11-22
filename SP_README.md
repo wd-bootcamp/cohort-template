@@ -31,7 +31,7 @@ Student repository for the web development bootcamp web-[cohort-name].
 | morning   | Welcome             | Shell Basics     | Git CLI and remote  | CSS Basics             | CSS Positioning |
 | afternoon | GitHub and Markdown | HTML and the Web | Git Branches and PR | Self Directed Learning | CSS Flexbox     |
 
-### week 2
+### Week 2
 
 |           | Monday         | Tuesday             | Wednesday                | Thursday               | Friday                     |
 |-----------|----------------|---------------------|--------------------------|------------------------|----------------------------|
