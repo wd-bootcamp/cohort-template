@@ -35,7 +35,7 @@ Student repository for the web development bootcamp web-[cohort-name].
 
 |           | Monday         | Tuesday             | Wednesday                | Thursday               | Friday                     |
 |-----------|----------------|---------------------|--------------------------|------------------------|----------------------------|
-| morning   | CSS Structure  | **Recap Project 1** | **Project Presentation** | JS Dom and Events      | JS Conditions and Booleans |
+| morning   | CSS Structure  | **Recap Project 1** | **Project Presentation** | JS DOM and Events      | JS Conditions and Booleans |
 | afternoon | CSS Responsive | Accessibility       | JS Basic and Variables   | Self Directed Learning | JS Objects and Arrays      |
 
 ### week 3
