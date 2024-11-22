@@ -45,7 +45,7 @@ Student repository for the web development bootcamp web-[cohort-name].
 | morning   | JS Functions | JS Inputs & Strings | JS createElement    | **Recap Project 2**    | **Project Presentation** |
 | afternoon | HTML Forms   | JS Forms            | **Recap Project 2** | Self Directed Learning | JS Loops                 |
 
-### week 4
+### Week 4
 
 |           | Monday           | Tuesday           | Wednesday        | Thursday               | Friday                   |
 |-----------|------------------|-------------------|------------------|------------------------|--------------------------|
