@@ -49,15 +49,15 @@ Student repository for the web development bootcamp web-[cohort-name].
 
 |           | Monday           | Tuesday           | Wednesday        | Thursday               | Friday                   |
 |-----------|------------------|-------------------|------------------|------------------------|--------------------------|
-| morning   | JS Array Methods | JS Fetch          | Git Advanced      | **Recap Project 3**    | **Project Presentation** |
+| morning   | JS Array Methods | JS Fetch          | Git Advanced     | **Recap Project 3**    | **Project Presentation** |
 | afternoon | JS Structure     | JS Error Handling | JS Modern Syntax | Self Directed Learning | Mock Interview 1         |
 
 ### Week 5
 
-|           | Monday       | Tuesday       | Wednesday         | Thursday               | Friday              |
-|-----------|--------------|---------------|-------------------|------------------------|---------------------|
-| morning   | React Basics | React Nesting | React with Arrays | React State 3          | React Effects and Fetch |
-| afternoon | React Props  | React State 1  | React State 2     | Self Directed Learning | React with  Local Storage       |
+|           | Monday       | Tuesday       | Wednesday         | Thursday               | Friday                    |
+|-----------|--------------|---------------|-------------------|------------------------|---------------------------|
+| morning   | React Basics | React Nesting | React with Arrays | React State 3          | React Effects and Fetch   |
+| afternoon | React Props  | React State 1 | React State 2     | Self Directed Learning | React with  Local Storage |
 
 ### Week 6
 
@@ -68,28 +68,28 @@ Student repository for the web development bootcamp web-[cohort-name].
 
 ### Week 7
 
-|           | Monday                  | Tuesday                 | Wednesday              | Thursday            | Friday              |
-|-----------|-------------------------|-------------------------|------------------------|---------------------|---------------------|
-| morning   | React Styled Components | React Component Testing | React Global State     | React Data Fetching | **Recap Project 5** |
-| afternoon | JS Unit Testing         | React Global State      | Self Directed Learning | **Recap Project 5** | **Recap Project 5** |
+|           | Monday                  | Tuesday                 | Wednesday           | Thursday            | Friday                   |
+|-----------|-------------------------|-------------------------|---------------------|---------------------|--------------------------|
+| morning   | React Styled Components | React Component Testing | React Data Fetching | **Recap Project 5** | **Recap Project 5**      |
+| afternoon | JS Unit Testing         | React Global State      | **Recap Project 5** | **Recap Project 5** | **Project Presentation** |
 
 ### week 8
 
-|           | Monday                   | Tuesday            | Wednesday       | Thursday               | Friday                    |
-|-----------|--------------------------|--------------------|-----------------|------------------------|---------------------------|
-| morning   | **Recap Project 5**      | Backend Basics     | Backend MongoDB | Backend Create         | Backend Update and Delete |
-| afternoon | **Project Presentation** | Backend API Routes | Backend Read    | Self Directed Learning | **Recap Project 6**       |
+|           | Monday         | Tuesday            | Wednesday       | Thursday               | Friday                    |
+|-----------|----------------|--------------------|-----------------|------------------------|---------------------------|
+| morning   | Career Session | Backend Basics     | Backend MongoDB | Backend Create         | Backend Update and Delete |
+| afternoon | Career Session | Backend API Routes | Backend Read    | Self Directed Learning | **Recap Project 6**       |
 
 ### Week 9
 
-|           | Monday                        | Tuesday         | Wednesday       | Thursday       | Friday         |
-|-----------|-------------------------------|-----------------|-----------------|----------------|----------------|
-| morning   | **Project Presentation**      | Design Workshop | How to Capstone | Capstone Forum | Capstone Forum |
-| afternoon | Agile Workflow & User Stories | Design Workshop | Capstone Forum  | Capstone Forum | Capstone Forum |
+|           | Monday                        | Tuesday         | Wednesday       | Thursday      | Friday         |
+|-----------|-------------------------------|-----------------|-----------------|---------------|----------------|
+| morning   | **Project Presentation**      | Design Workshop | How to Capstone | Capstone Prep | Capstone Forum |
+| afternoon | Agile Workflow & User Stories | Design Workshop | Capstone Prep   | Capstone Prep | Capstone Forum |
 
 ### Week 10 - 12
 
-|           | Monday   | Tuesday  | Wednesday | Thursday | Friday    |
-|-----------|----------|----------|-----------|----------|-----------|
-| morning   | Capstone | Capstone | Capstone  | Capstone | Capstone  |
+|           | Monday   | Tuesday  | Wednesday | Thursday | Friday   |
+|-----------|----------|----------|-----------|----------|----------|
+| morning   | Capstone | Capstone | Capstone  | Capstone | Capstone |
 | afternoon | Capstone | Capstone | Capstone  | Capstone | Capstone |
