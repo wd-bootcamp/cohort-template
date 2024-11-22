@@ -24,7 +24,7 @@ Student repository for the web development bootcamp web-[cohort-name].
 
 > The exact order of the sessions is subject to change.
 
-### week 1
+### Week 1
 
 |           | Monday              | Tuesday          | Wednesday           | Thursday               | Friday          |
 |-----------|---------------------|------------------|---------------------|------------------------|-----------------|
