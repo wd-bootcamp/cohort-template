@@ -80,7 +80,7 @@ Student repository for the web development bootcamp web-[cohort-name].
 | morning   | **Recap Project 5**      | Backend Basics     | Backend MongoDB | Backend Create         | Backend Update and Delete |
 | afternoon | **Project Presentation** | Backend API Routes | Backend Read    | Self Directed Learning | **Recap Project 6**       |
 
-### week 9
+### Week 9
 
 |           | Monday                        | Tuesday         | Wednesday       | Thursday       | Friday         |
 |-----------|-------------------------------|-----------------|-----------------|----------------|----------------|
