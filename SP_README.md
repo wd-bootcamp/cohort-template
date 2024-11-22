@@ -20,7 +20,7 @@ Student repository for the web development bootcamp web-[cohort-name].
 
 ---
 
-## Session overview
+## Session Overview
 
 > The exact order of the session is subject to change.
 
