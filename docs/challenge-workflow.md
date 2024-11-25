@@ -24,3 +24,4 @@ Please follow this workflow when working on challenges. It helps you practicing 
 9. Create a **new** branch dedicated to that challenge **only**.
 10. Focus solely on that challenge. While working, remember to make multiple `commits`.
 11. Upon finishing the work on that challenge, create a pull request (PR) on the GitHub page.
+12. Post the url to your PR in the session solution thread on slack.
