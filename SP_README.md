@@ -1,5 +1,5 @@
 
-# Student Recap web-[cohort-Name]
+# Student Recap [cohort-Name]-web--[year]
 
 > Please review and select the files required for the specific cohort (NF or SP). Delete any files that are irrelevant to the respective cohort. For the files you choose to keep:
 
@@ -7,7 +7,7 @@
 - If the file is for NF, remove all mentions of SP.
 >
 
-Student repository for the web development bootcamp web-[cohort-name].
+Student repository for the web development bootcamp [cohort-Name]-web--[year].
 
 ## Use this Repository
 
