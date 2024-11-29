@@ -8,6 +8,14 @@ cd web-bootcamp
 
 Clone the repository via its SSH URL:
 
+NeueFisher
+
 ```bash
-git clone git@github.com:wd-bootcamp/<repo-name>.git
+git clone git@github.com:neuefische/<repo-name>.git
+```
+
+Spiced
+
+```bash
+git clone git@github.com:spiced-academy/<repo-name>.git
 ```
