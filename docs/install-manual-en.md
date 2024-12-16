@@ -8,7 +8,7 @@ cd web-bootcamp
 
 Clone the repository via its SSH URL:
 
-NeueFisher
+NeueFishe
 
 ```bash
 git clone git@github.com:neuefische/<repo-name>.git

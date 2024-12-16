@@ -1,5 +1,5 @@
 
-# Student Recap [cohort-Name]-web--[year]
+# Student Recap [cohort-Name]-web-[year]
 
 > Please review and select the files required for the specific cohort (NF or SP). Delete any files that are irrelevant to the respective cohort. For the files you choose to keep:
 
@@ -73,7 +73,7 @@ Student repository for the web development bootcamp [cohort-Name]-web--[year].
 | morning   | React Styled Components | React Component Testing | React Data Fetching | **Recap Project 5** | **Recap Project 5**      |
 | afternoon | JS Unit Testing         | React Global State      | **Recap Project 5** | **Recap Project 5** | **Project Presentation** |
 
-### week 8
+### Week 8
 
 |           | Monday         | Tuesday            | Wednesday       | Thursday               | Friday                    |
 |-----------|----------------|--------------------|-----------------|------------------------|---------------------------|
