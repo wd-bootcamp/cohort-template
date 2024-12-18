@@ -18,6 +18,17 @@ Student repository for the web development bootcamp [cohort-Name]-web--[year].
 - [Bootcamp Information](./docs/bootcamp-info-en.md)
 - [Bootcamp Rules](./docs/bootcamp-rules-en.md)
 
+## Deployment Instructions
+
+- [Github Pages](./docs/deployment-github-pages.md)
+- [Vercel](./docs/deployment-vercel.md)
+
+## Challenges Workflow
+
+[Here](./docs/challenge-workflow.md) you can find the challenge workflow.  
+
+Remember to review someone else’s PR after submitting your own. Collaboration and feedback are key!  
+
 ---
 
 ## Session Overview
