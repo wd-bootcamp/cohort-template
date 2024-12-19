@@ -12,6 +12,20 @@ Student repository for the web development bootcamp [location]-web-[year]-[cours
 
 - [Guide how to clone this repository](/docs/install-manual-en.md)
 
+## Rules
+
+- [Bootcamp Information](./docs/bootcamp-info-en.md)
+- [Bootcamp Rules](./docs/bootcamp-rules-en.md)
+
+## Deployment Instructions
+
+- [Github Pages](./docs/deployment-github-pages.md)
+- [Vercel](./docs/deployment-vercel.md)
+
+## Challenges Workflow
+
+[Here](./docs/challenge-workflow.md) you can find the challenge workflow.  
+
 ---
 
 ## Session Overview
