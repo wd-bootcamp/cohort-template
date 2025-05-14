@@ -4,11 +4,11 @@ To ensure all participants can be successful, we need mutual respect and a relia
 
 ## Attendance (Internal)
 
-Classes (remote and/or in-person) take place from Monday to Friday between 8:30 AM and 7:30 PM (exact times are discussed individually within the course, and attendance is mandatory during this period, including via Zoom). Group work and tasks may need to be completed in the evenings or on weekends, but this should be discussed with your instructors. Remember, this is your time and your unique opportunity to gain as much knowledge as possible.
+Classes (remote and/or in-person) take place from Monday to Friday between 8:30 AM and 7:30 PM (exact times are discussed individually within the course, and attendance is mandatory during this period, including via Google Meet). Group work and tasks may need to be completed in the evenings or on weekends, but this should be discussed with your instructors. Remember, this is your time and your unique opportunity to gain as much knowledge as possible.
 
 ## Absence (External)
 
-If you cannot attend the course due to illness or important appointments, you must notify your instructor via Slack before 8:30 AM on the respective day. Otherwise, the course day will be considered "unexcused absence." A certificate for each absence (medical certificate, certificate of job interviews, etc.) must be submitted to your instructors. Absences of more than three consecutive days must be discussed separately. If you miss more than three days, achieving the course goal may already be at risk - a certificate may no longer be issued. Always contact your instructors immediately, and we will try to find a solution together. A refund of the participation fee for failure to achieve the course goal for reasons not attributable to us is not possible. Participation in meetings with your instructors or the Career Service is also mandatory. Additionally, all participants are required to be on time for each class and event. Delays can only be tolerated if an important personal reason exists and the delay is announced in advance.
+If you cannot attend the course due to illness or important appointments, you must notify your instructor via Discord before 8:30 AM on the respective day. Otherwise, the course day will be considered "unexcused absence." A certificate for each absence (medical certificate, certificate of job interviews, etc.) must be submitted to your instructors. Absences of more than three consecutive days must be discussed separately. If you miss more than three days, achieving the course goal may already be at risk - a certificate may no longer be issued. Always contact your instructors immediately, and we will try to find a solution together. A refund of the participation fee for failure to achieve the course goal for reasons not attributable to us is not possible. Participation in meetings with your instructors or the Career Service is also mandatory. Additionally, all participants are required to be on time for each class and event. Delays can only be tolerated if an important personal reason exists and the delay is announced in advance.
 
 ## Absence (Internal)
 
@@ -32,7 +32,7 @@ Class sessions, whether in-person or remote, may not be recorded without the con
 
 ## Recordings by neuefische
 
-In some courses, we record video and audio of instructors and participants during our live sessions. This allows you to watch the sessions later, practice with them, or view them if you missed a session due to illness. Employees who use these recordings to prepare and improve the courses also have access to the recordings. We use protected areas of common providers (e.g., YouTube private, Zoom, Slack, or Google Drive) for the recordings. Importantly, whether or not recording takes place is decided by the instructors.
+In some courses, we record video and audio of instructors and participants during our live sessions. This allows you to watch the sessions later, practice with them, or view them if you missed a session due to illness. Employees who use these recordings to prepare and improve the courses also have access to the recordings. We use protected areas of common providers (e.g., YouTube private, Google Meet, Discord, or Google Drive) for the recordings. Importantly, whether or not recording takes place is decided by the instructors.
 
 ## Creation of Content with AI
 
@@ -56,7 +56,7 @@ If you need help or have difficulty understanding something, contact your instru
 
 ## Help, Organizational
 
-Do you need a course certificate or want to submit a certificate yourself? Do you want to talk to someone? Contact your Student Service support (preferably via Slack or email at studienberatung@neuefische.de).
+Do you need a course certificate or want to submit a certificate yourself? Do you want to talk to someone? Contact your Student Service support (preferably via Discord or email at studienberatung@neuefische.de).
 
 ## Participation
 
@@ -75,9 +75,9 @@ neuefische expects a high level of self-responsibility, independence, and teamwo
 - Addressing problems promptly
 - Independent review of the content is mandatory!
 
-## Slack (Rules)
+## Discord (Rules)
 
-Slack is the most important communication tool at neuefische. Familiarize yourself with it with the help of your coaches. You will find all relevant information there and be informed of any news. Please enter your full name and upload a meaningful profile picture before the first course day. Please note that general data protection rules also apply to Slack; do not post private conversations from closed channels in public areas. Whenever possible, feel free to contact the coaches in the channel or via DM. Participants may only create their own channels after consultation. Please remain friendly and helpful. Slack is primarily intended for course communication. Debates, forums, and discussions on topics outside the course should be conducted through other communication channels to ensure the successful completion of the bootcamp for everyone.
+Discord is the most important communication tool at neuefische. Familiarize yourself with it with the help of your coaches. You will find all relevant information there and be informed of any news. Please enter your full name and upload a meaningful profile picture before the first course day. Please note that general data protection rules also apply to Discord; do not post private conversations from closed channels in public areas. Whenever possible, feel free to contact the coaches in the channel or via DM. Participants may only create their own channels after consultation. Please remain friendly and helpful. Discord is primarily intended for course communication. Debates, forums, and discussions on topics outside the course should be conducted through other communication channels to ensure the successful completion of the bootcamp for everyone.
 
 ## TalentApp
 
