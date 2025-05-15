@@ -24,8 +24,8 @@ Here is guidance on how to navigate and conquer the challenges.
 9. Create a **new** branch dedicated to that challenge **only**.
 10. Focus solely on that challenge. While working, remember to make multiple `commits`.
 11. Upon finishing the work on that challenge, create a pull request (PR) on the GitHub page.
-12. Share the PR link in the Slack on the thread: :checkered_flag: `Solution Thread: <session name>`.
-    The message in the slack channel should include the following:
+12. Share the PR link in the Discord on the thread: :checkered_flag: `Solution Thread: <session name>`.
+    The message in the Discord channel should include the following:
 
     ```markdown
     **Challenge:** Challenge Name
